@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I’m Barlow
 
-<!--
-**pythondev24/pythondev24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 🤖 AI/ML Engineer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate Full-Stack Developer and AI/ML Engineer who loves building scalable applications, experimenting with cutting-edge technologies, and creating intelligent automation systems. My work spans across modern web development and advanced AI domains like LLMs, NLP, and AI-powered automation.
+
+🛠️ Tech Stack
+
+Frontend Development
+
+⚛️ React, Vue, Svelte
+🔥 JavaScript, TypeScript
+🎨 TailwindCSS, Bootstrap
+
+Backend Development
+
+🖥️ Laravel, Node.js, Express
+🗄️ REST & GraphQL APIs
+
+AI/ML
+
+🤖 Large Language Models (LLMs)
+🧠 Natural Language Processing (NLP)
+⚡ AI Automation & Chatbots
+
+Other Tools
+
+🐳 Docker, Git, CI/CD
+☁️ Cloud: AWS / Firebase
+📊 Data Science: Python, Pandas, PyTorch
+
+📌 Current Interests
+
+Building AI-powered developer tools
+Exploring LLM fine-tuning & prompt engineering
+Designing automation workflows for productivity
+Contributing to open-source projects
+
+🌐 Find Me Online
+
+💼 LinkedIn
+https://linkedin.com/barlow-christopher-470194383
