@@ -1,4 +1,4 @@
-👋 Hi, I’m Christopherhttps://github.com/pythondev24/pythondev24/blob/main/README.md
+👋 Hi, I’m Christopher
 
 💻 Full-Stack Developer | 🤖 AI/ML Engineer | 🚀 Tech Enthusiast
 
